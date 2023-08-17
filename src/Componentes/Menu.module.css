@@ -1,0 +1,23 @@
+.menu {
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.5rem;
+  background-color: #080808;
+  width: 500px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+input{
+  margin: 10px;
+  height: 30px;
+  width: 300px;
+  border-radius: 10px;
+}
+button {
+  margin: 10px;
+  width: 305px;
+  border-radius: 10px;
+}
